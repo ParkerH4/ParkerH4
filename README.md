@@ -1,8 +1,8 @@
 # Parker Hewitt
 
-Hello! 👋 I'm Parker, a passionate developer with a focus on front-end and web development. I hold a 2-year Software Development diploma from the Southern Alberta Institute of Technology (SAIT). Since graduation, I've been dedicated to building my portfolio and expanding my skill set.
+Hello! 👋 I'm Parker, a passionate developer! I hold a 2-year Software Development diploma from the Southern Alberta Institute of Technology (SAIT) and I am currently pursuing a Bachelor of Science in Computer Science at the University of Lethbridge. 
 
-I have a strong foundation in Java, which I primarily learned during my time at SAIT. My skills also include HTML/CSS, SQL, JavaScript, Python, React, and Ruby on Rails.
+I have a strong foundation in Java, which I primarily learned during my time at SAIT. My skills also include HTML/CSS, SQL, JavaScript, Python, React, and Ruby on Rails. 
 
 I'm always passionate about enhancing my skillset and continuously learning new technologies to stay up-to-date with industry trends.
 
